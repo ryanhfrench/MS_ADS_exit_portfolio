@@ -1,15 +1,17 @@
 # Data Science Portfolio
 ## A collection of my favorite Data Science related projects in fulfillment of the Syracuse University School of Information Studies MS in Applied Data Science.
 
-## Ryan French
-## 673100962
-## All files included should be viewable via:
+### Ryan French
+### 673100962
+### All files included should be viewable via:
 * Microsoft Office Sweet
 * Adobe Creative Suite
 * Tableau
 * R Studio
 * Jupyter
 * VS Code
+
+# Projects
 
 # Spotify Top 200 Daily Tracks & Features Analysis
 ## Utilizing Python, SQL, & Tableau
