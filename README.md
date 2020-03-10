@@ -2,7 +2,15 @@
 ## A collection of my favorite Data Science related projects in fulfillment of the Syracuse University School of Information Studies MS in Applied Data Science.
 
 ### Ryan French
+### rhfrench@syr.edu
 ### 673100962
+
+
+
+## Files
+**Ryan_French_Resume.pdf:** My current resume. <br/>
+**paper.docx:** My paper summarizing my skills and experiences in the field of Data Science. <br/>
+
 ## All files included should be viewable via:
 * Microsoft Office Sweet
 * Adobe Creative Suite
@@ -15,7 +23,7 @@
 
 # Projects
 
-# Spotify Top 200 Daily Tracks & Features Analysis
+# Spotify Top 200 Daily Tracks & Features Analysis (Personal Project)
 ## Utilizing Python, SQL, & Tableau
 
 ### Summary
@@ -34,7 +42,7 @@ Probably my most used app on a daily basis, my Spotify is almost always open whe
 
 
 
-# Analyzing The Gaming Industry Over Time
+# Analyzing The Gaming Industry Over Time (IST 719)
 ## Utilizing R & Adobe Illustrator
 
 ![Feature Importances](https://github.com/ryanhfrench/portfolio/blob/master/analyzing_key_indicators_of_high_app_reviews/feature_importances.png)
@@ -56,7 +64,7 @@ As an avid gamer when I discovered the Video Game Sales dataset on Kaggle (https
 
 
 
-# Analyzing Key Indicators of Positive Reviews for iOS Apps
+# Analyzing Key Indicators of Positive Reviews for iOS Apps (IST 462)
 ## Utilizing Python
 
 ### Summary
@@ -69,7 +77,7 @@ My final project for Scripting for Data Analysis, I was interested to get a bett
 
 
 
-# Visualizing, Predicting, & Understanding Crime in Syracuse
+# Visualizing, Predicting, & Understanding Crime in Syracuse (HNR 230)
 ## Utilizing R
 
 ### Summary
