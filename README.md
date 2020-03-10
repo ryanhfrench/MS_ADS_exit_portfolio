@@ -9,15 +9,7 @@
 
 ## Files
 **Ryan_French_Resume.pdf:** My current resume. <br/>
-**paper.docx:** My paper summarizing my skills and experiences in the field of Data Science. <br/>
-
-## All files included should be viewable via:
-* Microsoft Office Sweet
-* Adobe Creative Suite
-* Tableau
-* R Studio
-* Jupyter
-* VS Code
+**transforming-information-into-understanding.docx:** My paper summarizing my skills, experiences, and methodologies as they relate to the field of Data Science. <br/>
 
 
 
@@ -87,3 +79,13 @@ As the culmination of my Undergraduate career in at Syracuse University's School
 **Weekly_Crime_Offenses_2017.csv:** Syracuse crime data to be analyzed, taken directly from data.syrgov.net. <br/>
 **code.R:** R script for data munging, visualization, and modeling. <br/>
 **report.pdf:** Report submitted in fulfillment of my Renée Crown Honors Undergraduate Capstone project. <br/>
+
+
+
+## All files included should be viewable via:
+* Microsoft Office Sweet
+* Adobe Creative Suite
+* Tableau
+* R Studio
+* Jupyter
+* VS Code
