@@ -3,13 +3,15 @@
 
 ### Ryan French
 ### 673100962
-### All files included should be viewable via:
+## All files included should be viewable via:
 * Microsoft Office Sweet
 * Adobe Creative Suite
 * Tableau
 * R Studio
 * Jupyter
 * VS Code
+
+
 
 # Projects
 
