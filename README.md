@@ -8,8 +8,9 @@
 
 
 ## Files
-**Ryan_French_Resume.pdf:** My current resume. <br/>
-**transforming-information-into-understanding.docx:** My paper summarizing my skills, experiences, and methodologies as they relate to the field of Data Science. <br/>
+**Ryan_French_resume.pdf:** My current resume. <br/>
+**transforming-information-into-understanding-paper.docx:** My paper summarizing my skills, experiences, and methodologies as they relate to the field of Data Science. <br/>
+**transforming-information-into-understanding-pres.pptx** Slides which summarize the key points of my paper. <br/>
 
 
 
@@ -82,7 +83,7 @@ As the culmination of my Undergraduate career in at Syracuse University's School
 
 
 
-## All files included should be viewable via:
+## All files included can be viewed via:
 * Microsoft Office Sweet
 * Adobe Creative Suite
 * Tableau
